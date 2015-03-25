@@ -5,7 +5,8 @@ merge merge
 
 
 mais merges aqui embaixo
-testando merges :D
+
+merge com conflito
 
 
 muito merge 
